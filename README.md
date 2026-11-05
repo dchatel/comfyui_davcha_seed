@@ -8,4 +8,3 @@ A single **Seed** node (`davcha/utils`):
 - five history buttons above the widget keep the last 5 queued seeds, the most recent at the bottom. Click one to reuse it.
 
 The history is stored in the node properties, so it is saved with the workflow (and in the workflow embedded in output images).
-# comfyui_davcha_seed
